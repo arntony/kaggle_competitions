@@ -2,7 +2,4 @@
     "terminal.integrated.rendererType": "dom",
     "python.pythonPath": "/home/arnab/Programming/Python/mypython/bin/python3",
     "python.venvPath": "/home/arnab/Programming/Python/mypython/bin/python3",
-    "[python]": {
-        
-    }
 }
