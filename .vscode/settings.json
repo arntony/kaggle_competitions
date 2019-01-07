@@ -1,5 +1,7 @@
 {
     "terminal.integrated.rendererType": "dom",
-    "python.pythonPath": "/home/arnab/Programming/Python/mypython/bin/python3",
-    "python.venvPath": "/home/arnab/Programming/Python/mypython/bin/python3",
+    "python.pythonPath": "/home/arnab/environments/kaggle_env/bin/python",
+    "python.venvFolders": ["environments"],
+    "python.venvPath": "/home/arnab/environments/kaggle_env/bin/python",
+    "python.jediEnabled": false
 }
